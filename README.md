@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security, Programming 
 - 🌏 Programming languages I use Python, Bash
 - 📜 Have little experience with C, Go, TypeScript
-- 🏠 My personal website is syberu.xyz
+- 🏠 My personal website is [Syberu.xyz](https://syberu.xyz)
 - 📫 gvido.berzins@syberu.xyz
 
 <!---
